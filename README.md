@@ -1,0 +1,1 @@
+These are my course projects for AI course. We have 6 projects this semester, and we have carried out four of them so far. 
